@@ -8,3 +8,6 @@ This repository is utilized for drawing pictures in CS
 [A Network Motif Based Approach for Classifying Online Social Networks](https://www.researchgate.net/profile/Alexandru-Topirceanu-2/publication/269301529_A_network_motif_based_approach_for_classifying_online_social_networks/links/5cd52c6f458515712ea07600/A-network-motif-based-approach-for-classifying-online-social-networks.pdf)
 
 ![motif distributions](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/motif%20distributions.PNG)
+
+[]()
+![]()
