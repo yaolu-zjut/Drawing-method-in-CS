@@ -11,3 +11,6 @@ This repository is utilized for drawing pictures in CS
 
 [Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better]()
 ![Attention and saliency maps](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/Attention%20and%20saliency%20maps.PNG)
+
+[Estimating Training Data Influence by Tracing Gradient Descent](https://arxiv.org/pdf/2002.08484.pdf)
+![]()
