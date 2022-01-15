@@ -9,8 +9,8 @@ This repository is utilized for drawing pictures in CS
 
 ![motif distributions](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/motif%20distributions.PNG)
 
-[Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better]()
+[Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better](https://openaccess.thecvf.com/content/ICCV2021/papers/Zi_Revisiting_Adversarial_Robustness_Distillation_Robust_Soft_Labels_Make_Student_Better_ICCV_2021_paper.pdf)
 ![Attention and saliency maps](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/Attention%20and%20saliency%20maps.PNG)
 
 [Estimating Training Data Influence by Tracing Gradient Descent](https://arxiv.org/pdf/2002.08484.pdf)
-![]()
+![Proponents and opponents example](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/Proponents%20and%20opponents%20example.PNG)
