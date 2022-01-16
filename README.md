@@ -14,3 +14,6 @@ This repository is utilized for drawing pictures in CS
 
 [Estimating Training Data Influence by Tracing Gradient Descent](https://arxiv.org/pdf/2002.08484.pdf)
 ![Proponents and opponents example](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/Proponents%20and%20opponents%20example.PNG)
+
+[EVALUATION OF SIMILARITY-BASED EXPLANATIONS](https://arxiv.org/pdf/2006.04528.pdf)
+![identical subclass test](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/identical%20subclass%20test.PNG)
