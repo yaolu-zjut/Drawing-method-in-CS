@@ -17,3 +17,6 @@ This repository is utilized for drawing pictures in CS
 
 [EVALUATION OF SIMILARITY-BASED EXPLANATIONS](https://arxiv.org/pdf/2006.04528.pdf)
 ![identical subclass test](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/identical%20subclass%20test.PNG)
+
+[Predicting Customer Value with Social Relationships via Motif-based Graph Attention Networks](https://dl.acm.org/doi/pdf/10.1145/3442381.3449849)
+![function of Motif](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/function%20of%20Motif.PNG)
