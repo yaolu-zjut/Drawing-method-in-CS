@@ -20,3 +20,6 @@ This repository is utilized for drawing pictures in CS
 
 [Predicting Customer Value with Social Relationships via Motif-based Graph Attention Networks](https://dl.acm.org/doi/pdf/10.1145/3442381.3449849)
 ![function of Motif](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/function%20of%20Motif.PNG)
+
+[Comprehensive Knowledge Distillation with Causal Intervention](https://openreview.net/pdf?id=ch9qlCdrHD7)
+![Comprehensive Knowledge Distillation with Causal Intervention](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/Comprehensive%20Knowledge%20Distillation.PNG)
