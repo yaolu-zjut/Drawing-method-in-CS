@@ -23,3 +23,6 @@ This repository is utilized for drawing pictures in CS
 
 [Comprehensive Knowledge Distillation with Causal Intervention](https://openreview.net/pdf?id=ch9qlCdrHD7)
 ![Comprehensive Knowledge Distillation with Causal Intervention](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/Comprehensive%20Knowledge%20Distillation.PNG)
+
+[LEEP: A New Measure to Evaluate Transferability of Learned Representations](http://proceedings.mlr.press/v119/nguyen20b/nguyen20b.pdf)
+![LEEP: A New Measure to Evaluate Transferability of Learned Representations](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/transfer%20learning.PNG)
