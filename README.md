@@ -26,3 +26,6 @@ This repository is utilized for drawing pictures in CS
 
 [LEEP: A New Measure to Evaluate Transferability of Learned Representations](http://proceedings.mlr.press/v119/nguyen20b/nguyen20b.pdf)
 ![LEEP: A New Measure to Evaluate Transferability of Learned Representations](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/transfer%20learning.PNG)
+
+![Interpretable part-whole hierarchies and conceptual-semantic relationships in neural networks](https://arxiv.org/pdf/2203.03282v1.pdf)
+![Interpretable part-whole hierarchies and conceptual-semantic relationships in neural networks](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/Hyper-parameters_sweep.PNG)
