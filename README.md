@@ -29,3 +29,6 @@ This repository is utilized for drawing pictures in CS
 
 [Interpretable part-whole hierarchies and conceptual-semantic relationships in neural networks](https://arxiv.org/pdf/2203.03282v1.pdf)
 ![Interpretable part-whole hierarchies and conceptual-semantic relationships in neural networks](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/Hyper-parameters_sweep.PNG)
+
+[The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy](https://arxiv.org/pdf/2203.06345.pdf)
+![The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/weight_principle_components.PNG)
