@@ -35,3 +35,6 @@ This repository is utilized for drawing pictures in CS
 
 [Chaos is a ladder: A new understanding of contrastive learning](https://openreview.net/pdf?id=ECvgmYVyeUz)
 ![Chaos is a ladder: A new understanding of contrastive learning](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/Contrastive%20learning.PNG)
+
+[Causality Inspired Representation Learning for Domain Generalization](https://arxiv.org/pdf/2203.14237.pdf)
+![Causality Inspired Representation Learning for Domain Generalization](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/hyper-parameters.PNG)
