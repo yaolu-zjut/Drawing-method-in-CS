@@ -32,3 +32,6 @@ This repository is utilized for drawing pictures in CS
 
 [The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy](https://arxiv.org/pdf/2203.06345.pdf)
 ![The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/weight_principle_components.PNG)
+
+[Chaos is a ladder: A new understanding of contrastive learning](https://openreview.net/pdf?id=ECvgmYVyeUz)
+![Chaos is a ladder: A new understanding of contrastive learning](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/Contrastive%20learning.PNG)
