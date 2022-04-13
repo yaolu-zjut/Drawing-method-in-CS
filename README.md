@@ -38,3 +38,6 @@ This repository is utilized for drawing pictures in CS
 
 [Causality Inspired Representation Learning for Domain Generalization](https://arxiv.org/pdf/2203.14237.pdf)
 ![Causality Inspired Representation Learning for Domain Generalization](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/hyper-parameters.PNG)
+
+[LogME: Practical Assessment of Pre-trained Models for Transfer Learning](http://proceedings.mlr.press/v139/you21b/you21b.pdf)
+![LogME: Practical Assessment of Pre-trained Models for Transfer Learning](https://github.com/yaolu-zjut/Drawing-method-in-CS/blob/main/images/task%20adaptive%20pre-trained%20model%20selection.PNG)
